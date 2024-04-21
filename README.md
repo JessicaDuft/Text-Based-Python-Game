@@ -38,5 +38,10 @@ The following code builds a text-based game written in Python. In this game, you
        
        
      **You must collect all 6 items and make your way to the storage room to win the game**
+<br/>
+<br/>
+<br/>
+<br/>
 
+[View my Eportfolio here](https://github.com/JessicaDuft/EPortfolio)
 
